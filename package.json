@@ -1,0 +1,23 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "Learning node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manishdevelops/1_node-farm.git"
+  },
+  "author": "Manish Mandal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manishdevelops/1_node-farm/issues"
+  },
+  "homepage": "https://github.com/manishdevelops/1_node-farm#readme",
+  "dependencies": {
+    "nodemon": "^3.0.1",
+    "slugify": "^1.0.0"
+  }
+}
